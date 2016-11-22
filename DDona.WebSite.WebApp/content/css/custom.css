@@ -1,9 +1,9 @@
-﻿#header{
+﻿#header {
     background-image: url('/content/images/header.jpg');
     background-color: #1f2533;
     min-height: 350px;
     background-position: center center;
-    background-repeat:no-repeat;
+    background-repeat: no-repeat;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
     font-family: 'Cabin', sans-serif;
 }
 
-h1,h2,h3{
+h1, h2, h3 {
     padding: 0px;
     margin: 0px;
 }
@@ -20,7 +20,7 @@ h2 {
     font-size: 4em;
 }
 
-h1,h3 {
+h1, h3 {
     color: #FFF;
 }
 
