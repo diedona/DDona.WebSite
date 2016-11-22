@@ -9,6 +9,7 @@
 body {
     background-color: #FFF;
     font-family: 'Cabin', sans-serif;
+    color: #FFF;
 }
 
 h1, h2, h3 {
@@ -38,4 +39,12 @@ h3.subtitle {
     h1.site-title {
         padding-top: 20px;
     }
+}
+
+.section{
+    background-color: #1d2530;
+}
+
+.container-white {
+    color: #1f2533;
 }

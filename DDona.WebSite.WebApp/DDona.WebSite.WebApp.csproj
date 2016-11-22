@@ -80,6 +80,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="content\css\animate.css" />
     <Content Include="content\css\bootstrap-override.css" />
     <Content Include="content\css\bootstrap.css" />
     <Content Include="content\css\custom.css" />
