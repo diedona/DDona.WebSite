@@ -66,6 +66,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="content\images\angularjs-logo.png" />
+    <Content Include="content\images\asp-net-logo.png" />
+    <Content Include="content\images\c-sharp-logo.png" />
+    <Content Include="content\images\visual-studio-logo.png" />
     <Content Include="packages.config" />
     <Content Include="content\css\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="content\css\fonts\glyphicons-halflings-regular.ttf" />
