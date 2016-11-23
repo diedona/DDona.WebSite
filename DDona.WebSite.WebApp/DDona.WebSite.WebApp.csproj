@@ -69,6 +69,10 @@
     <Content Include="content\images\angularjs-logo.png" />
     <Content Include="content\images\asp-net-logo.png" />
     <Content Include="content\images\c-sharp-logo.png" />
+    <Content Include="content\images\facebook-logo.png" />
+    <Content Include="content\images\linkedin-logo.png" />
+    <Content Include="content\images\social-media-kinda-of-logo.png" />
+    <Content Include="content\images\twitter-logo.png" />
     <Content Include="content\images\visual-studio-logo.png" />
     <Content Include="content\images\wordpress-logo.png" />
     <Content Include="packages.config" />
